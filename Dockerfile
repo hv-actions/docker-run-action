@@ -1,4 +1,4 @@
-FROM docker:20.10
+FROM repo.orl.eng.hitachivantara.com/docker/docker:20.10
 
 RUN apk add bash
 
